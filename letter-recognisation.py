@@ -114,6 +114,7 @@ def model(X_train, Y_train, Y,X_test,Y_test, num_iters, alpha, print_cost):
     :param X_test:
     :param Y_test:
     :param num_iterations:
+    #completed
     :param learning_rate:
     :param print_cost:
     :return:
